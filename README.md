@@ -50,11 +50,3 @@ python fresh_rotten_detector.py
 ## Model Information
 
 The application uses MobileNetV2 architecture for food type classification and freshness detection. The model has been trained on a dataset of fresh and rotten fruits and vegetables.
-
-## License
-
-[Choose an appropriate license]
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. 
