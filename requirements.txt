@@ -1,0 +1,5 @@
+tensorflow>=2.0.0
+customtkinter>=5.1.2
+pillow>=9.0.0
+numpy>=1.19.2
+matplotlib>=3.3.0 
